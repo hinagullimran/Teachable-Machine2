@@ -27,8 +27,8 @@ This model uses **Transfer Learning** based on a pre-trained neural network. It 
 
 ## Proof of our Model:
 
+<img width="195" height="345" alt="{0A24B7DB-9F00-4C11-A23E-23A4F2868240}" src="https://github.com/user-attachments/assets/8b418aef-5808-413e-a5c7-8102c183f008" />
 
-<img width="167" height="166" alt="image" src="https://github.com/user-attachments/assets/a0dcc846-5f85-4678-8bfe-358508359c2a" />
 
 
 
