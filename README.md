@@ -21,13 +21,17 @@ You can view and test the live model here:
 
 This model uses **Transfer Learning** based on a pre-trained neural network. It has been fine-tuned to recognize the following classes:
 
-* **Class 1:** `[Insert Name, e.g., Apple]`
-* **Class 2:** `[Insert Name, e.g., Orange]`
+* **Class 1:** `[Insert Name, e.g., Bottle]`
+* **Class 2:** `[Insert Name, e.g., Pen]`
 * *`[Add more if applicable]`*
 
 ## Proof of our Model:
 
 <img width="195" height="345" alt="{0A24B7DB-9F00-4C11-A23E-23A4F2868240}" src="https://github.com/user-attachments/assets/8b418aef-5808-413e-a5c7-8102c183f008" />
+
+
+<img width="181" height="358" alt="image" src="https://github.com/user-attachments/assets/30f8c118-6845-4f55-8cd4-3ca96e5a3f46" />
+
 
 
 
