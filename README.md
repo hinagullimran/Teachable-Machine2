@@ -25,6 +25,19 @@ This model uses **Transfer Learning** based on a pre-trained neural network. It 
 * **Class 2:** `[Insert Name, e.g., Orange]`
 * *`[Add more if applicable]`*
 
+## Proof of our Model:
+
+
+<img width="167" height="166" alt="image" src="https://github.com/user-attachments/assets/a0dcc846-5f85-4678-8bfe-358508359c2a" />
+
+
+
+
+
+
+
+
+
 ## 🛠 Tech Stack
 
 * **Framework:** TensorFlow.js
