@@ -8,7 +8,7 @@ Since I cannot "see" the specific images you trained (e.g., whether it distingui
 
 ---
 
-# [Project Name: e.g., Image Classifier Model]
+# [Project Name: AI-Object-Detector]
 
 A custom machine learning model trained using **Google Teachable Machine**. This model can recognize and classify images into specific categories in real-time.
 
@@ -21,9 +21,9 @@ You can view and test the live model here:
 
 This model uses **Transfer Learning** based on a pre-trained neural network. It has been fine-tuned to recognize the following classes:
 
-* **Class 1:** `[Insert Name, e.g., Bottle]`
-* **Class 2:** `[Insert Name, e.g., Pen]`
-* *`[Add more if applicable]`*
+* **Class 1:** `[ Bottle]`
+* **Class 2:** `[ Pen]`
+* **Class 2:** `[blank]`
 
 ## Proof of our Model:
 
